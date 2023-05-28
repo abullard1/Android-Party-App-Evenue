@@ -4,4 +4,11 @@ A work-in-progress Android App that will enable people to easily host and attend
 ## Features and Roadmap will be available soon.
 
 ### Pre-Release Early Showcase
-<img src="https://media.giphy.com/media/RiYskB3IveBX8LSpOP/giphy.gif" width=30% height=30%>
+<table>
+  <tr>
+    <td><img src="https://media.giphy.com/media/RiYskB3IveBX8LSpOP/giphy.gif"></td>
+    <td><img src="https://media.giphy.com/media/P2jhdqaSIs2Ms0Kfrd/giphy.gif"></td>
+  </tr>
+</table>
+
+
